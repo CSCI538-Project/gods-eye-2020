@@ -57,45 +57,56 @@ of screenshots & images.
 The Victim page displays all the active victims that are connected to the backend server. Users can scroll up and down to choose any victims to show basic machine information, such as IP address, port, username and machine type. From this page,
 users can enter into the actions page through the action button in the basic info panel.
 
-![](https://github.com/CSCI538-Project/gods-eye-2020/blob/master/Design/Victim_List.png)
+<figure style="text-align:center">
+    <img src="Screenshots/1.JPG" width="450" >
+    <figcaption><b>Fig. 1 </b>All Victims' Page</figcaption>
+</figure>
 
 #### Identified Victims Page
 
 Identified victims page displays all the identified victims, a vulnerability score is accompanied by each victim to notify how much vulnerable this victim is. Users can also use the vulnerability score filter to choose the victims meeting the attacker’s requirement.
 
+<figure style="text-align:center">
+    <img src="Screenshots/3.JPG" width="450">
+    <figcaption><b>Fig. 2 </b>Identified Victims' Page</figcaption>
+</figure>
+
 #### History Page
 
 History page displays all the victims that have once been identified by our server, by clicking on each victim button on this page, users will be taken into the Informational UI to show all the detailed information of the chosen victim.
+
+<figure style="text-align:center">
+    <img src="Screenshots/4.JPG" width="450">
+    <figcaption><b>Fig. 3 </b>History Page</figcaption>
+</figure>
 
 #### Actions Page
 
 Action page shows all the available actions that can be performed by users, there are three commands for now. They are screenshot, photo, details (goes to informational UI and displayed when hacker navigates to Action Page from Identifed Victims' Page) and identify. Photo action will take a photo of the victim using the victims’ machine webcam. Screenshot will take a screenshot. Identify action will be executed automatically with requesting the command of Identifying multiple times to the server to take multiple photos to use Azure Face Recognition API to identify this victim. During the Identifying phase, a loading component will be displayed.
 
-### Informational UI
+<figure style="text-align:center">
+    <img src="Screenshots/2.JPG" width="450">
+    <figcaption><b>Fig. 4 </b>Action's Page when navigated from All Victims' Page (Tab 1)</figcaption>
+</figure>
+    <br>
+<figure style="text-align:center">
+    <img src="Screenshots/6.png" width="450">
+    <figcaption><b>Fig. 5 </b>Action's Page when navigated from Identified Vicitms' Page (Tab 2)</figcaption>
+</figure>
+
+#### Information Page
 
 This page is accessed from the History tab of the Control Panel UI. It can also be accessed through the Actions Page.
 
-### ScreenShot
-<!-- ![](1.png=300x300) -->
 <figure style="text-align:center">
-    <img src="1.jpg" height="300" >
-    <figcaption><b>Fig. 1 </b>All Victims' Page</figcaption><br>
-    <img src="3.jpg" height="300">
-    <figcaption><b>Fig. 2 </b>Identified Victims' Page</figcaption><br>
-    <img src="4.jpg" height="300">
-    <figcaption><b>Fig. 3 </b>History Victims' Page</figcaption><br>
-    <img src="2.jpg" height="300">
-    <figcaption><b>Fig. 4 </b>Action's Page</figcaption><br>
-    <img src="6.png" height="300">
-    <figcaption><b>Fig. 5 </b>Action's Page from Identified Vicitms</figcaption><br>
-    <img src="5.jpg" height="300">
-    <figcaption><b>Fig. 6 </b>Informational UI</figcaption><br>
+    <img src="Screenshots/5.JPG" width="450">
+    <figcaption><b>Fig. 6 </b>Information Page</figcaption>
 </figure>
 
 
 # Contributors
 1. Aimin Wei
-2. Divij Bhatia
+2. [Divij Bhatia](https://divijbhatia.in "Divij Bhatia")
 3. Dipesh Chauhan
 4. Ruchir Shah
 5. Wenbin Li
