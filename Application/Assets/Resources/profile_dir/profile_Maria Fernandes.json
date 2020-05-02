@@ -1,0 +1,172 @@
+{
+    "id": "maria_fernandes",
+    "first_name": "Maria",
+    "last_name": "Fernandes",
+    "face_image":  "maria_face",
+
+    "personal_info": {
+        "age": 26,
+        "education": [
+            {
+                "school": "USC",
+                "degree": "Masters at USC",
+                "major": "Computer Science",
+                "tenure": "2018-2020"
+            },
+            {
+                "school": "BIT",
+                "degree": "Bachelors at BIT",
+                "major": "Computer Science",
+                "tenure": "2012-2016"
+            }
+        ],
+        "email": "mariadivyafernandes@gmail.com",
+        "contact_info": {
+            "mobile": "(213) 310-6759",
+            "home": "+1-2133106759"
+        },
+
+        "residence": {
+            "apt": "742 W 27th Street",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": 90007,
+            "latitude": 33.029631,
+            "longitude": -118.287778
+        },
+
+        "recent_images": "maria_recent"
+    },
+
+
+    "financial_info": {
+
+        "current_company": "ADP",
+        "company_logo": "maria_company",
+        "position": "Software Developer",
+        "location": "Alpharetta, Georgia",
+        "salary": 100000,
+        "salary_string": "$100,000",
+        "venmo_tx": [
+            {
+                "amount": "$20",
+                "recipient": "Gagan Vasudev",
+                "payer": "Maria",
+                "date": "11th Oct 2019"
+            },
+          {
+            "amount": "$20",
+            "recipient": "Yatin Gupta",
+            "payer": "Maria",
+            "date": "5th Oct 2019"
+          },
+          {
+            "amount": "$3.63",
+            "recipient": "Yash Patel",
+            "payer": "Gagan",
+            "date": "2nd Oct 2019"
+          },
+          {
+            "amount": "$10",
+            "recipient": "Yash Patel",
+            "payer": "Maria",
+            "date": "30th Sep 2019"
+          }
+        ]
+    },
+
+    "connections": {
+        "relationship_status": "Single",
+        "no_of_dependents": 0,
+        "family_members_images_dir":  "maria_family",
+        "family_members": [
+          {
+            "name": "Bella Fernandes",
+            "relation": "Mother",
+            "url": "bella"
+          },
+          {
+            "name": "John Fernandes",
+            "relation": "Father",
+            "url": "john"
+          },
+          {
+            "name": "Vishan Fernandes",
+            "relation": "Brother",
+            "url": "vishan"
+          }
+        ],
+        "social_media_friends_images_dir":  "maria_friends",
+        "social_media_friends": [
+            {
+                "name": "Yash Patel",
+                "url": "yash"
+            },
+            {
+                "name": "Neha Dabela",
+                "url": "neha"
+            },
+            {
+                "name": "Shwetha Rao",
+                "url": "shwetha"
+            },
+            {
+                "name": "Gagan Vasudev",
+                "url": "gagan"
+            }
+        ]
+    },
+
+    "social_media_info": {
+        "facebook": {
+            "username": "MariaFernandes",
+            "url": "https://www.facebook.com/maria.fernandes.56614"
+        },
+        "instagram": {
+            "username": "maria._.fernandes",
+            "url": "https://www.instagram.com/maria._.fernandes/"
+        },
+        "linkedin": {
+            "username": "maria-fernandes",
+            "url": "https://www.linkedin.com/in/maria-fernandes-03aa91163/"
+        },
+        "twitter": {
+            "username": "mariafernandes",
+            "url": "https://twitter.com/MariaFe39141888"
+        }
+    },
+
+    "interests_info": {
+      "checkins": [
+        {
+          "location": "Cinematic Arts",
+          "date": "28th Oct 2019",
+          "time": "14:00"
+        },
+        {
+          "location": "Venice",
+          "date": "27th Oct 2019",
+          "time": "14:45"
+        },
+        {
+          "location": "The Grove, LA",
+          "date": "10th Oct 2019",
+          "time": "20:00"
+        },
+        {
+          "location": "Santa Monica, LA",
+          "date": "7th Oct 2019",
+          "time": "14:45"
+        }
+
+      ],
+        "recent_likes": [
+            "University of Southern California",
+            "The Grove",
+            "Joker",
+            "Little Things"
+        ]
+    }
+
+}

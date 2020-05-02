@@ -1,0 +1,137 @@
+{
+    "id": "gupta_yatin",
+    "first_name": "Yatin",
+    "last_name": "Gupta",
+    "face_image":  "yatin_face",
+
+    "personal_info": {
+        "age": 23,
+        "education": [
+            {
+                "school": "USC",
+                "degree": "Masters at USC",
+                "major": "Computer Science",
+                "tenure": "2018-2020"
+            },
+            {
+                "school": "MSIT",
+                "degree": "Bachelors at MSIT",
+                "major": "Computer Science",
+                "tenure": "2014-2018"
+            }
+        ],
+        "email": "yatin@gmail.com",
+        "contact_info": {
+            "mobile": "(716) 717-2555",
+            "home": "+1-7167172555"
+        },
+
+        "residence": {
+            "apt": "2717 orchard Ave",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": 90007,
+            "latitude": 34.029631,
+            "longitude": -118.287778
+        },
+
+        "recent_images": "yatin_recent"
+    },
+
+
+    "financial_info": {
+
+        "current_company": "Amazon Web Services",
+        "company_logo": "yatin_company",
+        "position": "Software Developer",
+        "location": "Seattle, WA",
+        "salary": 120000,
+        "salary_string": "$120,000",
+        "venmo_tx": [
+            {
+                "amount": "$15",
+                "recipient": "Manish Lokur",
+                "payer": "Yatin",
+                "date": "10th Oct 2019"
+            },
+          {
+            "amount": "$50",
+            "recipient": "Akshay Bhadra",
+            "payer": "Yatin",
+            "date": "19th Oct 2019"
+          },
+          {
+            "amount": "$4.75",
+            "recipient": "Santhosh Narayanan",
+            "payer": "Yatin",
+            "date": "18th Nov 2019"
+          }
+        ]
+    },
+
+    "connections": {
+        "relationship_status": "Single",
+        "no_of_dependents": 0,
+        "family_members_images_dir":  "yatin_family",
+        "family_members": [
+        ],
+        "social_media_friends_images_dir":  "yatin_friends",
+        "social_media_friends": [
+            {
+                "name": "Vaibhav Batra",
+                "url": "vaibhav"
+            },
+            {
+                "name": "Chashmeet Singh",
+                "url": "chashmeet"
+            },
+            {
+                "name": "Shobhit Gupta",
+                "url": "shobhit"
+            }
+        ]
+    },
+
+    "social_media_info": {
+        "facebook": {
+            "username": "yatingupta1996",
+            "url": "https://www.facebook.com/yatingupta1996"
+        },
+        "instagram": {
+            "username": "yatingupta96",
+            "url": "https://www.instagram.com/yatingupta96/"
+        },
+        "linkedin": {
+            "username": "yatingupta12",
+            "url": "https://www.linkedin.com/in/yatingupta12/"
+        },
+        "twitter": {
+            "username": "yatingupta96",
+            "url": "https://twitter.com/yatingupta96"
+        }
+    },
+
+    "interests_info": {
+      "checkins": [
+        {
+          "location": "Century Link Field - Seattle",
+          "date": "29th June 2019",
+          "time": "17:00"
+        },
+        {
+          "location": "Mt. Si",
+          "date": "24th June 2019",
+          "time": "13:00"
+        },
+
+      ],
+        "recent_likes": [
+            "IBM",
+            "Amazon Web Services",
+            "Symantec",
+            "Apple Macbook Pro"
+        ]
+    }
+
+}

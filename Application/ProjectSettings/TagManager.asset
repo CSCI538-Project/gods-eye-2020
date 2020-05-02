@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Salary
+  - CompanyName
+  - CompanyPosition
+  - FacebookUsername
+  - InstagramUsername
+  - TwitterUsername
+  - LinkedinUsername
+  - FacePane
+  - FacePaneScore
+  - FullNameTag
+  - AnimCollider
+  - AgeTag
+  - EmailTextTag
+  - PhoneTextTag
+  - ResidenceState
+  - ResidenceStreet
+  - ResidenceCity
+  - Edu1TextMajor
+  - Edu1TextDegree
+  - Edu2TextMajor
+  - Edu2TextDegree
+  - Edu2TextTenure
+  - Edu1TextTenure
+  - RelationshipStatus
+  - ScoreDisplayBackground
+  - FacePaneIndex
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Spatial Awareness
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

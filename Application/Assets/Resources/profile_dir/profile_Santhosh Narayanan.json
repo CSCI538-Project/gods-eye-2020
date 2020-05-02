@@ -1,0 +1,170 @@
+{
+    "id": "santhosh_narayanan",
+    "first_name": "Santhosh",
+    "last_name": "Narayanan",
+    "face_image":  "santhosh_face",
+
+    "personal_info": {
+        "age": 23,
+        "education": [
+            {
+                "school": "USC",
+                "degree": "Masters at USC",
+                "major": "Computer Science",
+                "tenure": "2018-2020"
+            },
+            {
+                "school": "Mumbai University",
+                "degree": "Bachelors at Mumbai University",
+                "major": "Computer Engineering",
+                "tenure": "2014-2018"
+            }
+        ],
+        "email": "santhoshnarme@gmail.com",
+        "contact_info": {
+            "mobile": "(313) 417-6755",
+            "home": "(313) 417-6755"
+        },
+
+        "residence": {
+            "apt": "2707 Portland St",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": 90007,
+            "latitude": 34.029857,
+            "longitude": -118.283689
+        },
+
+        "recent_images": "santhosh_recent"
+    },
+
+
+    "financial_info": {
+
+        "current_company": "ZS Associates",
+        "company_logo": "santhosh_company",
+        "position": "Data Engineer",
+        "location": "Philadelphia, PA",
+        "salary": 95000,
+        "salary_string": "$95,000",
+        "venmo_tx": [
+            {
+                "amount": "$1.49",
+                "recipient": "Yash Patel",
+                "payer": "Santhosh Narayanan",
+                "date": "17th Nov 2019"
+            },
+			{
+				"amount": "$12.47",
+				"recipient": "Mohit Shah",
+				"payer": "Santhosh Narayanan",
+				"date": "17th Nov 2019"
+			},
+			{
+				"amount": "$11.81",
+				"recipient": "Sanchit Gupta",
+				"payer": "Santhosh Narayanan",
+				"date": "17th Nov 2019"
+			},
+			{
+				"amount": "$15.46",
+				"recipient": "Mohit Shah",
+				"payer": "Santhosh Narayanan",
+				"date": "14th Nov 2019"
+			}
+        ]
+    },
+
+    "connections": {
+        "relationship_status": "Single",
+        "no_of_dependents": 2,
+        "family_members_images_dir":  "santhosh_family",
+        "family_members": [
+          {
+            "name": "Meenakshi Narayanan",
+            "relation": "Mother",
+            "url": "meenakshi"
+          },
+          {
+            "name": "Tanjavore Narayanan",
+            "relation": "Father",
+            "url": "narayanan"
+          },
+		  {
+			"name": "Gayatri Ram",
+			"relation": "Aunt",
+            "url": "gayatri"
+		  }
+		  
+		  
+        ],
+        "social_media_friends_images_dir":  "santhosh_friends",
+        "social_media_friends": [
+            {
+                "name": "Yatin Gupta",
+                "url": "yatin"
+            },
+            {
+                "name": "Maiko Kamada",
+                "url": "maiko"
+            },
+            {
+                "name": "Dhaval Thakkar",
+                "url": "dhaval"
+            },
+            {
+                "name": "Jay Patel",
+                "url": "jay"
+            }
+        ]
+    },
+
+    "social_media_info": {
+        "facebook": {
+            "username": "santhosh.narayanan.75",
+            "url": "https://www.facebook.com/santhosh.narayanan.75"
+        },
+        "instagram": {
+            "username": "santhoshnyn",
+            "url": "https://www.instagram.com/santhoshnyn/"
+        },
+        "linkedin": {
+            "username": "santhosh1634",
+            "url": "hhttps://www.linkedin.com/in/santhosh1634/"
+        },
+        "twitter": {
+            "username": "@Santhos76226161",
+            "url": "https://twitter.com/Santhos76226161"
+        }
+    },
+
+    "interests_info": {
+      "checkins": [
+        {
+          "location": "Philadelphia, Pennsylvania",
+		      "date": "August 11, 2019"
+        },
+        {
+          "location": "Manhattan Beach State Park",
+		      "date": "May 18, 2019"
+        },
+        {
+          "location": "Tanjavur Big Temple",
+		       "date": "June 11, 2018"
+        },
+        {
+          "location": "Amrita Vishwa Vidyapeetham",
+		      "date": "December 22, 2016"
+        }
+
+      ],
+        "recent_likes": [
+            "USC ISA",
+            "USC Hindu Student Organization",
+            "USC ACM - Association for Computing Machinery",
+            "OnePlus"
+        ]
+    }
+
+}

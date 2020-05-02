@@ -1,0 +1,125 @@
+﻿{
+    "id": "victor_zamarian",
+    "first_name": "Victor",
+    "last_name": "Zamarian",
+    "face_image":  "victor_face",
+
+    "personal_info": {
+        "age": 23,
+        "education": [
+            {
+                "school": "USC",
+                "degree": "Masters at USC",
+                "major": "Computer Science",
+                "tenure": "2018-2020"
+            },
+            {
+                "school": "UOP",
+                "degree": "Bachelors at University of the Pacific",
+                "major": "Computer Science",
+                "tenure": "2014-2018"
+            }
+        ],
+        "email": "viczam1996@gmail.com",
+        "contact_info": {
+            "mobile": "(408) 981-1554",
+            "home": "+1-2134567890"
+        },
+
+        "residence": {
+            "apt": "1478 W Jefferson Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": 90007,
+            "latitude": 34.025377,
+            "longitude": -118.299700
+        },
+
+        "recent_images": "victor_recent"
+    },
+
+
+    "financial_info": {
+
+        "current_company": "N/A",
+        "company_logo": "victor_company",
+        "position": "N/A",
+        "location": "",
+        "salary": 0,
+        "salary_string": "N/A",
+        "venmo_tx": [
+            {
+                "amount": "$6",
+                "recipient": "Santhosh Narayanan",
+                "payer": "Victor",
+                "date": "24th Oct 2019"
+            }
+        ]
+    },
+
+    "connections": {
+        "relationship_status": "Single",
+        "no_of_dependents": 0,
+        "family_members_images_dir":  "victor_family",
+        "family_members": [
+            {
+                "name": "Giuseppina",
+                "relation": "Mother",
+                "url": "giuseppina"
+            }
+        ],
+        "social_media_friends_images_dir":  "victor_friends",
+        "social_media_friends": [
+            {
+                "name": "Ruijing",
+                "url": "ruijing"
+            },
+            {
+                "name": "Shreyas",
+                "url": "shreyas"
+            },
+            {
+                "name": "Ryan",
+                "url": "ryan"
+            }
+        ]
+    },
+
+    "social_media_info": {
+        "facebook": {
+            "username": "victor.zamarian",
+            "url": "https://www.facebook.com/victor.zamarian"
+        },
+        "instagram": {
+            "username": "N/A",
+            "url": ""
+        },
+        "linkedin": {
+            "username": "victor-zamarian",
+            "url": "https://www.linkedin.com/in/victor-zamarian-7bb7a4125/"
+        },
+        "twitter": {
+            "username": "N/A",
+            "url": ""
+        }
+    },
+
+    "interests_info": {
+      "checkins": [
+        {
+          "location": "Cupertino High School",
+          "date": "5th Jun 2014",
+          "time": "14:00"
+        }
+
+      ],
+        "recent_likes": [
+            "Zama Rian",
+            "University of the Pacific",
+            "Humans of Cupertino High",
+            "Logitech G"
+        ]
+    }
+
+}

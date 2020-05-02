@@ -1,0 +1,151 @@
+{
+    "id": "wenbin_li",
+    "first_name": "Wenbin",
+    "last_name": "Li",
+    "face_image":  "wenbin_face",
+
+    "personal_info": {
+        "age": 24,
+        "education": [
+            {
+                "school": "USC",
+                "degree": "Masters at USC",
+                "major": "Computer Science",
+                "tenure": "2019-2020"
+            },
+        ],
+        "email": "wenbin_li@gmail.com",
+        "contact_info": {
+            "mobile": "(213) 245-3274",
+            "home": "+1-2134567890"
+        },
+
+        "residence": {
+            "apt": "2652 Ellendale Pl",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": 90007,
+            "latitude": 34.029631,
+            "longitude": -118.287778
+        },
+
+        "recent_images": "wenbin_recent"
+    },
+
+
+    "financial_info": {
+
+        "current_company": "Amazon",
+        "company_logo": "gagan_company",
+        "position": "Software Developer",
+        "location": "Seattle, WA",
+        "salary": 120000,
+        "salary_string": "$120,000",
+        "venmo_tx": [
+            {
+                "amount": "$20",
+                "recipient": "Shwetha Rao",
+                "payer": "Gagan",
+                "date": "11th Oct 2019"
+            },
+          {
+            "amount": "$50",
+            "recipient": "Yatin Gupta",
+            "payer": "Gagan",
+            "date": "10th Oct 2019"
+          },
+          {
+            "amount": "$3.63",
+            "recipient": "Victor Zamarian",
+            "payer": "Gagan",
+            "date": "2nd Oct 2019"
+          },
+          {
+            "amount": "$10",
+            "recipient": "Yash Patel",
+            "payer": "Gagan",
+            "date": "20th Sep 2019"
+          }
+        ]
+    },
+
+    "connections": {
+        "relationship_status": "Single",
+        "no_of_dependents": 0,
+        "family_members_images_dir":  "gagan_family",
+        "family_members": [
+        ],
+        "social_media_friends_images_dir":  "gagan_friends",
+        "social_media_friends": [
+            {
+                "name": "Gautam Thakur",
+                "url": "gautam"
+            },
+            {
+                "name": "Ashish Mahesh",
+                "url": "ashish"
+            },
+            {
+                "name": "Shwetha Rao",
+                "url": "shwetha"
+            },
+            {
+                "name": "Maria Divya",
+                "url": "maria"
+            }
+        ]
+    },
+
+    "social_media_info": {
+        "facebook": {
+            "username": "wenbin",
+            "url": "https://www.facebook.com/vasudev.gags"
+        },
+        "instagram": {
+            "username": "devil.li",
+            "url": "https://www.instagram.com/devilgags"
+        },
+        "linkedin": {
+            "username": "wenbin.li",
+            "url": "https://www.linkedin.com/in/gaganvasudev/"
+        },
+        "twitter": {
+            "username": "henry.li",
+            "url": "https://twitter.com/gagan_vasudev"
+        }
+    },
+
+    "interests_info": {
+      "checkins": [
+        {
+          "location": "Cinematic Arts",
+          "date": "28th Oct 2019",
+          "time": "14:00"
+        },
+        {
+          "location": "Santa Monica",
+          "date": "27th Oct 2019",
+          "time": "14:45"
+        },
+        {
+          "location": "The Grove, LA",
+          "date": "10th Oct 2019",
+          "time": "20:00"
+        },
+        {
+          "location": "Universal Studio, LA",
+          "date": "7th Oct 2019",
+          "time": "14:45"
+        }
+
+      ],
+        "recent_likes": [
+            "University of Southern California",
+            "Universal Studios",
+            "Batman: The Dark Knight",
+            "Apple Macbook Pro"
+        ]
+    }
+
+}

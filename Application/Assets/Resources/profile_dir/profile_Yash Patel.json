@@ -1,0 +1,163 @@
+{
+    "id": "yash_patel",
+    "first_name": "Yash",
+    "last_name": "Patel",
+    "face_image": "yash_face",
+
+    "personal_info": {
+        "age": 23,
+        "education": [{
+                "school": "USC",
+                "degree": "Masters at USC",
+                "major": "Computer Science",
+                "tenure": "2018-2020"
+            },
+            {
+                "school": "Indus University",
+                "degree": "Bachelors at Indus University",
+                "major": "Computer Science",
+                "tenure": "2014-2018"
+            }
+        ],
+        "email": "yp101296@gmail.com",
+        "contact_info": {
+            "mobile": "(213) 425-4189",
+            "home": "+1-2134577298"
+        },
+
+        "residence": {
+            "apt": "2707 Portland St",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": 90007,
+            "latitude": 34.0296529,
+            "longitude": -118.2831300
+        },
+
+        "recent_images": "yash_recent"
+    },
+
+
+    "financial_info": {
+
+        "current_company": "Okta",
+        "company_logo": "yash_company",
+        "position": "Software Developer",
+        "location": "Palo Alto, CA",
+        "salary": 133000,
+        "salary_string": "$133,000",
+        "venmo_tx": [{
+                "amount": "$37.33",
+                "recipient": "Gopal Agarwal",
+                "payer": "Yash",
+                "date": "18th Nov 2019"
+            },
+            {
+                "amount": "$10",
+                "recipient": "Jay Patel",
+                "payer": "Yash",
+                "date": "10th Nov 2019"
+            },
+            {
+                "amount": "$3.73",
+                "recipient": "Santhosh Narayanan",
+                "payer": "Yash",
+                "date": "2nd Oct 2019"
+            },
+            {
+                "amount": "$10",
+                "recipient": "Vraj",
+                "payer": "Yash",
+                "date": "1th Oct 2019"
+            }
+        ]
+    },
+
+    "connections": {
+        "relationship_status": "Single",
+        "no_of_dependents": 0,
+        "family_members_images_dir": "yash_family",
+        "family_members": [{
+                "name": "Urvashi Patel",
+                "relation": "Mother",
+                "url": "urvashi"
+            },
+            {
+                "name": "Chamanlal Patel",
+                "relation": "Father",
+                "url": "chamanlal"
+            },
+            {
+                "name": "Yugma Patel",
+                "relation": "Sister",
+                "url": "yugma"
+            }
+        ],
+        "social_media_friends_images_dir": "yash_friends",
+        "social_media_friends": [{
+                "name": "Mohit Shah",
+                "url": "mohit"
+            },
+            {
+                "name": "Sanchit Gupta",
+                "url": "sanchit"
+            },
+            {
+                "name": "Maria Divya",
+                "url": "maria"
+            }
+        ]
+    },
+
+    "social_media_info": {
+        "facebook": {
+            "username": "patelyashimpossible",
+            "url": "https://www.facebook.com/patelyashimpossible"
+        },
+        "instagram": {
+            "username": "_patel.yash",
+            "url": "https://www.instagram.com/_patel.yash"
+        },
+        "linkedin": {
+            "username": "yashchap",
+            "url": "https://www.linkedin.com/in/yashchap/"
+        },
+        "twitter": {
+            "username": "Yash36429478",
+            "url": "https://twitter.com/Yash36429478"
+        }
+    },
+
+    "interests_info": {
+        "checkins": [{
+                "location": "Annapurna Cusine",
+                "date": "10th Nov 2019",
+                "time": "23:00"
+            },
+            {
+                "location": "Buffalo Wild Wings",
+                "date": "1th Noc 2019",
+                "time": "18:45"
+            },
+            {
+                "location": "Santa Monica, Third Street",
+                "date": "27th Oct 2019",
+                "time": "17:00"
+            },
+            {
+                "location": "Universal Studio, LA",
+                "date": "7th Oct 2019",
+                "time": "14:45"
+            }
+
+        ],
+        "recent_likes": [
+            "Joker",
+            "Universal Studios",
+            "Batman: The Dark Knight",
+            "Apple Macbook Pro"
+        ]
+    }
+
+}

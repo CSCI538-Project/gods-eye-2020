@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 84d536f72a30e7140a01f9d60b459658
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - VictimInfoPanel: {instanceID: 0}
+  - VictimDataPrefab: {instanceID: 0}
+  - FirstVictim: {instanceID: 0}
+  - SecondVictim: {instanceID: 0}
+  - ScrollUpVictimButton: {instanceID: 0}
+  - ScrollDownVictimButton: {instanceID: 0}
+  - slider: {instanceID: 0}
+  - FirstVictimData: {instanceID: 0}
+  - SecondVictimData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

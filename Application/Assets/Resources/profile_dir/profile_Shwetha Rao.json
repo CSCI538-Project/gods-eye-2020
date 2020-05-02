@@ -1,0 +1,182 @@
+{
+    "id": "shwetha_rao",
+    "first_name": "Shwetha",
+    "last_name": "Rao",
+    "face_image":  "shwetha_face",
+
+    "personal_info": {
+        "age": 24,
+        "education": [
+            {
+                "school": "USC",
+                "degree": "Masters at USC",
+                "major": "Computer Science",
+                "tenure": "2018-2020"
+            },
+            {
+                "school": "RVCE",
+                "degree": "Bachelors at RVCE",
+                "major": "Information Science",
+                "tenure": "2013-2017"
+            }
+        ],
+        "email": "shwethakallurkar@gmail.com",
+        "contact_info": {
+            "mobile": "(323) 518-6025",
+            "home": "++1-3235186025"
+        },
+
+        "residence": {
+            "apt": "1204W Adams Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA",
+            "zipcode": 90007,
+            "latitude": 34.032506, 
+            "longitude": -118.286731
+        },
+
+        "recent_images": "shwetha_recent"
+    },
+
+
+    "financial_info": {
+
+        "current_company": "Google",
+        "company_logo": "shwetha_company",
+        "position": "Software Engineer",
+        "location": "Mountain View, CA",
+        "salary": 150000,
+        "salary_string": "$150,000",
+        "venmo_tx": [
+            {
+                "amount": "$16.46",
+                "recipient": "Sridhar Aiyer",
+                "payer": "Shwetha",
+                "date": "14th Nov 2019"
+            },
+            {
+            "amount": "$14.23",
+            "recipient": "Anirudh CV",
+            "payer": "Shwetha",
+            "date": "12th Nov 2019"
+            },
+            {
+            "amount": "$41",
+            "recipient": "Pooja JN",
+            "payer": "Shwetha",
+            "date": "2nd Nov 2019"
+            },
+            {
+            "amount": "$46.49",
+            "recipient": "Krishna Sai",
+            "payer": "Shwetha",
+            "date": "24th Oct 2019"
+            },
+            {
+            "amount": "$1.85",
+            "recipient": "Santhosh Narayanan",
+            "payer": "Shwetha",
+            "date": "21th Oct 2019"
+            },
+	        {
+	        "amount": "$15.00",
+	        "recipient": "Arun Parthasarathy",
+	        "payer": "Shwetha",
+	        "date": "19th Oct 2019"
+	        }
+        ]
+    },
+
+    "connections": {
+        "relationship_status": "Single",
+        "no_of_dependents": 0,
+        "family_members_images_dir":  "shwetha_family",
+        "family_members": [
+          {
+            "name": "Arathi Rao",
+            "relation": "Mother",
+            "url": "arathi"
+          },
+          {
+            "name": "Suresh Rao",
+            "relation": "Father",
+            "url": "suresh"
+          },
+          {
+            "name": "Akansha Rao",
+            "relation": "Sister",
+            "url": "akansha"
+          }
+        ],
+        "social_media_friends_images_dir":  "shwetha_friends",
+        "social_media_friends": [
+            {
+                "name": "Shrikirti Vijayendra",
+                "url": "shrikirti"
+            },
+            {
+                "name": "Yashas BVN",
+                "url": "yashas"
+            },
+            {
+                "name": "Arun Parthasarathy",
+                "url": "arun"
+            },
+            {
+                "name": "Anirudh CV",
+                "url": "anirudh"
+            }
+        ]
+    },
+
+    "social_media_info": {
+        "facebook": {
+            "username": "shwethakallurkar",
+            "url": "https://www.facebook.com/shwethakallurkar" 
+        },
+        "instagram": {
+            "username": "thatstraighthairedgirl",
+            "url": "https://www.instagram.com/thatstraighthairedgirl/"
+        },
+        "linkedin": {
+            "username": "shwetharaok",
+            "url": "https://www.linkedin.com/in/shwetharaok/"
+        },
+        "twitter": {
+            "username": "rao_shwetha",
+            "url": "https://twitter.com/rao_shwetha"
+        }
+    },
+
+    "interests_info": {
+      "checkins": [
+        {
+          "location": "KIAL Terminal",
+          "date": "3rd Sep 2019",
+          "time": "21:00"
+        },
+        {
+          "location": "Hollywood Improv Comedy Club",
+          "date": "21st Mar 2019",
+          "time": "19:25"
+        },
+        {
+          "location": "Badmaash LA",
+          "date": "19th Sep 2018",
+          "time": "13:00"
+        },
+
+      ],
+        "recent_likes": [
+            "Subtle Curry Traits",
+            "Aunty Acid",
+            "USC ISA",
+            "USC Campus Activities",
+            "BuzzFeed",
+            "Yasmin Karachiwala",
+            "Coding Club RVCE"
+        ]
+    }
+
+}
